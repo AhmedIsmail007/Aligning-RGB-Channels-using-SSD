@@ -38,4 +38,4 @@ Image in reduced size are shown below.
 1. Clone the repository:
 
    ```shell
-   git clone <github.com/AhmedIsmail007/Aligning-RGB-Channels-using-SSD>
+   git clone <https://github.com/AhmedIsmail007/Aligning-RGB-Channels-using-SSD.git>
