@@ -24,9 +24,14 @@ Reference Green Channel center region (51x51) -  **ref_img_region** (center of t
 
 Final aligned image - ColorImg_aligned
 
-Image in reduced size are shown below.
+Image in reduced size is shown below.
 
 ![course1image](https://github.com/AhmedIsmail007/Aligning-RGB-Channels-using-SSD/assets/108105551/338e7f59-841f-4d19-8a75-1db9f71722dc)
+
+Output image is shown below.
+
+![aligned_image](https://github.com/AhmedIsmail007/Aligning-RGB-Channels-using-SSD/assets/108105551/831b3d09-ae9d-499e-af35-ce1d1f257693)
+
 
 ## Code Overview
 
